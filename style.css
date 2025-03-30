@@ -1,0 +1,20 @@
+body {
+    background-image: url("snow.gif");
+    background-repeat: repeat;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+}
